@@ -40,7 +40,7 @@ A full stack e-commerce application built with modern web technologies.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/digimart.git
+git clone https://github.com/abdullah-al-mridul/digimart-submit.git
 cd digimart
 ```
 

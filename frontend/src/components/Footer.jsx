@@ -163,7 +163,7 @@ const Footer = () => {
           {/* Copyright */}
           <div className="p-4 border-t-2 border-dashed border-level-4 text-center">
             <p className="text-level-5/70 text-sm">
-              © {new Date().getFullYear()} Your Company. All rights reserved.
+              © {new Date().getFullYear()} Digimart. All rights reserved.
             </p>
           </div>
         </div>

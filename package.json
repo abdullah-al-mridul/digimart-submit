@@ -1,0 +1,14 @@
+{
+  "name": "digimart",
+  "version": "1.0.0",
+  "description": "Full stack ecommerce application",
+  "scripts": {
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm run dev",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm run dev\"",
+    "install-all": "concurrently \"cd backend && pnpm install\" \"cd frontend && pnpm install\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
